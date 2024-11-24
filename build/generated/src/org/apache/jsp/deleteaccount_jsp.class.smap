@@ -1,0 +1,14 @@
+SMAP
+deleteaccount_jsp.java
+JSP
+*S JSP
+*F
++ 0 deleteaccount.jsp
+deleteaccount.jsp
+*L
+2,77:46
+80,6:125
+85,7:131
+92,51:139
+142,5:190
+*E
